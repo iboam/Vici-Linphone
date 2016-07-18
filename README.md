@@ -11,5 +11,5 @@ Tested with Vicidial: 7.0.3 | VERSION: 2.12-559a | BUILD: 160611-2230
   <li>Login as Agent</li>
   <li>Click Call Agent Webphone and Click on Answer Webphone Button</li>
 </ul>
-<img src="http://imgur.com/CPCDBls" alt="Image">
-<img src="http://imgur.com/edPWn9B" alt="Image">
+<img src="http://i.imgur.com/CPCDBls.png" alt="Image">
+<img src="http://i.imgur.com/edPWn9B.png" alt="Image">
